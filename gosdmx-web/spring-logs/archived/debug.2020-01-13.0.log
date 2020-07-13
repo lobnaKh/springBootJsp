@@ -1,0 +1,81 @@
+2020-01-13 11:58:43 - Starting BlsApplication on 2907B-HG2-1 with PID 6192 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-13 11:58:43 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-13 11:58:43 - The following profiles are active: dev
+2020-01-13 11:59:03 - Started BlsApplication in 21.113 seconds (JVM running for 22.004)
+2020-01-13 11:59:03 - BLS Application has been launched
+2020-01-13 11:59:04 - BLS triggers  has been launched
+2020-01-13 11:59:45 - Survey Survey [id=3, label=yyyyyy, description=yyyyyyyyyyyy, automatic=false, periodicity=null, openingPeriodInWorkingDays=6] is created successfully
+2020-01-13 14:51:10 - Starting BlsApplication on 2907B-HG2-1 with PID 13056 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-13 14:51:10 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-13 14:51:10 - The following profiles are active: dev
+2020-01-13 14:51:27 - Started BlsApplication in 17.678 seconds (JVM running for 18.383)
+2020-01-13 14:51:27 - BLS Application has been launched
+2020-01-13 14:51:28 - BLS triggers  has been launched
+2020-01-13 14:55:04 - logout
+2020-01-13 14:57:01 - logout
+2020-01-13 15:06:10 - Starting BlsApplication on 2907B-HG2-1 with PID 13056 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-13 15:06:10 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-13 15:06:10 - The following profiles are active: dev
+2020-01-13 15:06:23 - Started BlsApplication in 12.481 seconds (JVM running for 913.871)
+2020-01-13 15:06:23 - BLS Application has been launched
+2020-01-13 15:06:23 - BLS triggers  has been launched
+2020-01-13 15:09:06 - Cannot create more than two bankers per bank:User [id=0, firstname=test, lastname=test, email=test@gmail.com, username=testt, password=null, enabled=false] with different types
+2020-01-13 15:10:29 - updatePassword() USER :HADHRI with password $2a$10$DWl1srWXMn8dyI3ieh4Z5.vlsD7QqavULLtLDKVzRRy/CavYv9TxO
+2020-01-13 15:10:29 - CORRECT PASSWORD
+2020-01-13 15:12:58 - Banker User [id=7, firstname=KHALSI, lastname=Lobna, email=lobna.khalsi@bct.gov.tn, username=2906B, password=$2a$10$saplbPuUTcXMzBJluBqkI.QCCnPvz7RX.CTG..9XZLJt.7niNHaem, enabled=true] is created successfully
+2020-01-13 15:12:59 - OTP email is sent successfully to lobna.khalsi@bct.gov.tn
+2020-01-13 15:15:47 - Starting BlsApplication on 2907B-HG2-1 with PID 20372 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-13 15:15:47 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-13 15:15:47 - The following profiles are active: dev
+2020-01-13 15:16:06 - Started BlsApplication in 20.146 seconds (JVM running for 20.859)
+2020-01-13 15:16:06 - BLS Application has been launched
+2020-01-13 15:16:06 - BLS triggers  has been launched
+2020-01-13 15:16:27 - Bad credentials for user 2907B
+2020-01-13 15:16:30 - Bad credentials for user 2907B
+2020-01-13 15:16:42 - Invalid otp for user 2906B
+2020-01-13 15:25:27 - new otp 465704 for username 2906B is generated successfully
+2020-01-13 15:25:28 - New OTP email is sent successfully to lobna.khalsi@bct.gov.tn
+2020-01-13 15:31:17 - resetPassword() USER :Lobna with password $2a$10$saplbPuUTcXMzBJluBqkI.QCCnPvz7RX.CTG..9XZLJt.7niNHaem
+2020-01-13 15:32:58 - logout
+2020-01-13 15:33:00 - Bad credentials for user 2906M
+2020-01-13 15:33:10 - Bad credentials for user 2906M
+2020-01-13 15:39:03 - Banker User [id=7, firstname=KHALSI, lastname=Lobna, email=lobna.khalsi@bct.gov.tn, username=2906B, password=$2a$10$3kMLkf1zNjNvEjoYHHEe/uFCWeZFUf86u67bIP.d1TOouD5c7rmka, enabled=false] is updated successfully
+2020-01-13 15:39:17 - logout
+2020-01-13 15:39:31 - User 2906B is disabled
+2020-01-13 15:39:38 - Bad credentials for user 2906M
+2020-01-13 15:39:46 - Bad credentials for user 2906M
+2020-01-13 15:40:21 - Banker User [id=7, firstname=KHALSI, lastname=Lobna, email=lobna.khalsi@bct.gov.tn, username=2906B, password=$2a$10$3kMLkf1zNjNvEjoYHHEe/uFCWeZFUf86u67bIP.d1TOouD5c7rmka, enabled=true] is updated successfully
+2020-01-13 15:40:30 - logout
+2020-01-13 15:42:16 - resetPassword() USER :Lobna with password $2a$10$3kMLkf1zNjNvEjoYHHEe/uFCWeZFUf86u67bIP.d1TOouD5c7rmka
+2020-01-13 15:43:40 - logout
+2020-01-13 15:46:30 - Survey Survey [id=1, label=DEMO-Enquete automatique, description=L'enquête auprès des banques sur la distribution du crédit en Tunisie constitue un outil important., automatic=false, periodicity=null, openingPeriodInWorkingDays=1] is created successfully
+2020-01-13 15:46:54 - A new survey 1 instance will be created: SurveyInstance [id=1, label=DEMO-Enquete automatique_1, status=LAUNCHED, closedDate=null, reopenDuration=0]
+2020-01-13 15:50:25 - logout
+2020-01-13 15:51:15 - logout
+2020-01-13 15:51:52 - logout
+2020-01-13 15:52:44 - A new survey 1 instance will be created: SurveyInstance [id=2, label=DEMO-Enquete automatique_1, status=LAUNCHED, closedDate=null, reopenDuration=0]
+2020-01-13 15:53:47 - A new survey 1 instance will be created: SurveyInstance [id=3, label=DEMO-Enquete automatique_2, status=LAUNCHED, closedDate=null, reopenDuration=0]
+2020-01-13 15:54:25 - logout
+2020-01-13 15:54:40 - logout
+2020-01-13 15:54:45 - Bad credentials for user 2496Y
+2020-01-13 15:54:56 - A new survey 1 instance will be created: SurveyInstance [id=4, label=DEMO-Enquete automatique_1, status=LAUNCHED, closedDate=null, reopenDuration=0]
+2020-01-13 15:58:27 - logout
+2020-01-13 15:58:30 - Bad credentials for user 2907B
+2020-01-13 16:33:15 - logout
+2020-01-13 16:33:25 - Bad credentials for user 2496Y
+2020-01-13 16:36:09 - Starting BlsApplication on 2907B-HG2-1 with PID 14568 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-13 16:36:09 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-13 16:36:09 - The following profiles are active: dev
+2020-01-13 16:36:14 - Starting BlsApplication on 2907B-HG2-1 with PID 3236 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-13 16:36:14 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-13 16:36:14 - The following profiles are active: dev
+2020-01-13 16:36:33 - Started BlsApplication in 19.499 seconds (JVM running for 20.194)
+2020-01-13 16:36:33 - BLS Application has been launched
+2020-01-13 16:36:34 - BLS triggers  has been launched
+2020-01-13 16:37:16 - Bad credentials for user 2496Y
+2020-01-13 16:40:00 - Launching job close survey:JobDetail 'JOB_CLOSE_SURVEY_GROUP.JOB_CLOSE_SURVEY_NAME':  jobClass: 'com.bct.gosdmx.dynamic.cron.job.JobCloseSurvey concurrentExectionDisallowed: false persistJobDataAfterExecution: false isDurable: true requestsRecovers: false
+2020-01-13 16:43:03 - The survey instance SurveyInstance [id=4, label=DEMO-Enquete automatique_1, status=RELAUNCHED, closedDate=2020-01-13 16:40:00.35, reopenDuration=1] will be relaunched
+2020-01-13 16:48:59 - logout
+2020-01-13 16:52:10 - logout
+2020-01-13 16:52:17 - Bad credentials for user 2496Y
+2020-01-13 16:52:24 - Bad credentials for user 2496Y

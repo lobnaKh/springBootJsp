@@ -1,0 +1,12 @@
+2020-01-09 15:40:25 - Starting BlsApplication on 2907B-HG2-1 with PID 15388 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-09 15:40:25 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-09 15:40:25 - The following profiles are active: dev
+2020-01-09 15:42:48 - Starting BlsApplication on 2907B-HG2-1 with PID 19376 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-09 15:42:48 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-09 15:42:48 - The following profiles are active: dev
+2020-01-09 15:43:04 - Started BlsApplication in 15.8 seconds (JVM running for 16.535)
+2020-01-09 15:43:04 - BLS Application has been launched
+2020-01-09 15:44:18 - User not found: 2496Y
+2020-01-09 15:44:18 - Bad credentials for user 2496Y
+2020-01-09 15:44:56 - Survey Survey [id=2, label=test, description=tttttttt, periodicity=null, launchStartDate=null, launchEndDate=null, active=false, activationDate=null, desactivationDate=null] is created successfully
+2020-01-09 15:49:25 - Survey Survey [id=2, label=test, description=tttttttt, periodicity=null, launchStartDate=null, launchEndDate=null, active=false, activationDate=null, desactivationDate=null] is created successfully

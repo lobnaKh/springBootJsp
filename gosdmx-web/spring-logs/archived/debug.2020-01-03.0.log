@@ -1,0 +1,89 @@
+2020-01-03 08:29:19 - Starting BlsApplication on 2907B-HG2-1 with PID 23028 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-03 08:29:19 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-03 08:29:19 - The following profiles are active: dev
+2020-01-03 08:29:37 - Started BlsApplication in 18.955 seconds (JVM running for 19.7)
+2020-01-03 08:29:37 - BLS Application has been launched
+2020-01-03 08:29:37 - BLS triggers  has been launched
+2020-01-03 08:30:20 - logout
+2020-01-03 08:31:16 - Starting BlsApplication on 2907B-HG2-1 with PID 23028 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-03 08:31:16 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-03 08:31:16 - The following profiles are active: dev
+2020-01-03 08:31:27 - Started BlsApplication in 10.641 seconds (JVM running for 129.526)
+2020-01-03 08:31:27 - BLS Application has been launched
+2020-01-03 08:31:27 - BLS triggers  has been launched
+2020-01-03 08:36:11 - Starting BlsApplication on 2907B-HG2-1 with PID 23028 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-03 08:36:11 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-03 08:36:11 - The following profiles are active: dev
+2020-01-03 08:36:22 - Started BlsApplication in 10.531 seconds (JVM running for 424.302)
+2020-01-03 08:36:22 - BLS Application has been launched
+2020-01-03 08:36:22 - BLS triggers  has been launched
+2020-01-03 08:36:37 - Starting BlsApplication on 2907B-HG2-1 with PID 23028 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-03 08:36:37 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-03 08:36:37 - The following profiles are active: dev
+2020-01-03 08:36:48 - Started BlsApplication in 10.598 seconds (JVM running for 450.284)
+2020-01-03 08:36:48 - BLS Application has been launched
+2020-01-03 08:36:48 - BLS triggers  has been launched
+2020-01-03 08:36:55 - Starting BlsApplication on 2907B-HG2-1 with PID 23028 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-03 08:36:55 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-03 08:36:55 - The following profiles are active: dev
+2020-01-03 08:37:05 - Started BlsApplication in 10.204 seconds (JVM running for 467.536)
+2020-01-03 08:37:05 - BLS Application has been launched
+2020-01-03 08:37:05 - BLS triggers  has been launched
+2020-01-03 08:37:43 - Manager User [id=7, firstname=lobna, lastname=khalsi, email=lobna.khalsi@bct.gov.tn, username=lkh_lkh, password=$2a$10$8fcd7YeJKwDySw2geiZbbeVl4Y1WBe1k13vJt5nBLuP/xVCluE4Z6, enabled=true] is created successfully
+2020-01-03 08:37:44 - OTP email is sent successfully to lobna.khalsi@bct.gov.tn
+2020-01-03 08:40:07 - Invalid otp for user lkh_lkh
+2020-01-03 08:40:24 - Invalid otp for user lkh_lkh
+2020-01-03 08:41:20 - new otp 206182 for username lkh_lkh is generated successfully
+2020-01-03 08:41:21 - New OTP email is sent successfully to lobna.khalsi@bct.gov.tn
+2020-01-03 08:41:41 - Starting BlsApplication on 2907B-HG2-1 with PID 10840 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-03 08:41:41 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-03 08:41:41 - The following profiles are active: dev
+2020-01-03 08:42:01 - Started BlsApplication in 20.759 seconds (JVM running for 21.691)
+2020-01-03 08:42:01 - BLS Application has been launched
+2020-01-03 08:42:01 - BLS triggers  has been launched
+2020-01-03 08:42:20 - Bad credentials for user lkh_lkh
+2020-01-03 08:42:43 - Bad credentials for user lkh_lkh
+2020-01-03 08:43:39 - Bad credentials for user lkh_lkh
+2020-01-03 08:44:33 - Manager User [id=7, firstname=lobna, lastname=khalsi, email=lobna.khalsi@bct.gov.tn, username=lkh_lkh, password=$2a$10$0YuhMuw0QRtd/8bjxjXwc.J5eQy66IJ2CS5VOyCvfb7TdkMhul1DG, enabled=true] is created successfully
+2020-01-03 08:44:33 - OTP email is sent successfully to lobna.khalsi@bct.gov.tn
+2020-01-03 08:45:48 - Invalid otp for user lkh_lkh
+2020-01-03 08:46:09 - new otp 206599 for username lkh_lkh is generated successfully
+2020-01-03 08:46:09 - New OTP email is sent successfully to lobna.khalsi@bct.gov.tn
+2020-01-03 08:46:31 - Invalid otp for user lkh_lkh
+2020-01-03 08:47:12 - resetPassword() USER :khalsi with password $2a$10$0YuhMuw0QRtd/8bjxjXwc.J5eQy66IJ2CS5VOyCvfb7TdkMhul1DG
+2020-01-03 08:49:02 - Starting BlsApplication on 2907B-HG2-1 with PID 10840 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-03 08:49:02 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-03 08:49:02 - The following profiles are active: dev
+2020-01-03 08:49:14 - Started BlsApplication in 12.069 seconds (JVM running for 454.883)
+2020-01-03 08:49:14 - BLS Application has been launched
+2020-01-03 08:49:14 - BLS triggers  has been launched
+2020-01-03 08:51:54 - Starting BlsApplication on 2907B-HG2-1 with PID 10840 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-03 08:51:54 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-03 08:51:54 - The following profiles are active: dev
+2020-01-03 08:52:06 - Started BlsApplication in 11.751 seconds (JVM running for 626.52)
+2020-01-03 08:52:06 - BLS Application has been launched
+2020-01-03 08:52:06 - BLS triggers  has been launched
+2020-01-03 08:52:10 - Starting BlsApplication on 2907B-HG2-1 with PID 10840 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-03 08:52:10 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-03 08:52:10 - The following profiles are active: dev
+2020-01-03 08:52:21 - Started BlsApplication in 11.378 seconds (JVM running for 641.734)
+2020-01-03 08:52:21 - BLS Application has been launched
+2020-01-03 08:52:21 - BLS triggers  has been launched
+2020-01-03 08:54:03 - Starting BlsApplication on 2907B-HG2-1 with PID 10840 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-03 08:54:03 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-03 08:54:03 - The following profiles are active: dev
+2020-01-03 08:54:15 - Started BlsApplication in 11.964 seconds (JVM running for 755.085)
+2020-01-03 08:54:15 - BLS Application has been launched
+2020-01-03 08:54:15 - BLS triggers  has been launched
+2020-01-03 08:55:42 - Starting BlsApplication on 2907B-HG2-1 with PID 10840 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-03 08:55:42 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-03 08:55:42 - The following profiles are active: dev
+2020-01-03 08:55:54 - Started BlsApplication in 11.579 seconds (JVM running for 854.391)
+2020-01-03 08:55:54 - BLS Application has been launched
+2020-01-03 08:55:54 - BLS triggers  has been launched
+2020-01-03 08:56:46 - Starting BlsApplication on 2907B-HG2-1 with PID 10840 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-03 08:56:46 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-03 08:56:46 - The following profiles are active: dev
+2020-01-03 09:07:34 - Started BlsApplication in 648.577 seconds (JVM running for 1554.963)
+2020-01-03 09:07:34 - BLS Application has been launched
+2020-01-03 09:07:35 - BLS triggers  has been launched

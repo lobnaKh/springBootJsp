@@ -1,0 +1,71 @@
+.page {
+	background-color: #f2f5fa !important;
+	box-sizing: border-box;
+	background: white;
+	padding-top: 85px;
+	margin: 0;
+}
+
+.panel-div {
+	position: absolute;
+	top: 350px;
+}
+
+.exeption-panel {
+	box-sizing: border-box;
+	padding: 24% 0 0 100px;
+	width: 500px;
+}
+
+.exeption-icon {
+	max-width: 75px;
+	max-height: 75px;
+}
+
+.exception-summary {
+	font-family: "Montserrat", sans-serif;
+	display: block;
+	font-size: 2em;
+	margin-block-start: 0.67em;
+	margin-block-end: 0.67em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	font-weight: 500;
+}
+
+.exception-detail {
+	font-family: "Montserrat", sans-serif;
+	font-size: 13px;
+	color: #212121;
+	-webkit-font-smoothing: antialiased;
+}
+
+.btn {
+	background: RGB(19, 38, 94) !important;
+	color: #fff;
+	font-size: 14px !important;
+	padding: 2% 4% !important;
+	border-radius: 0;
+	border: 0 !important;
+	font-family: "Montserrat", sans-serif;
+	outline: none !important;
+	width: 77%;
+	margin-bottom: 2%;
+	margin-top: 2%;
+	margin-left: 0%;
+	margin-top: 2% !important;
+	margin-top: 2%;
+}
+
+.btn:hover {
+	background: RGB(19, 79, 138) !important;
+	cursor: pointer;
+}
+
+.btn .ui-button-icon-left {
+	left: 30% !important;
+}
+
+.margin-right-5 {
+	margin-right: 5px;
+}

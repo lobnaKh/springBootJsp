@@ -1,0 +1,7 @@
+2020-01-06 17:07:51 - Starting BlsApplication on 2907B-HG2-1 with PID 21164 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-06 17:07:51 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-06 17:07:51 - The following profiles are active: dev
+2020-01-06 17:08:11 - Started BlsApplication in 20.171 seconds (JVM running for 20.891)
+2020-01-06 17:08:11 - BLS Application has been launched
+2020-01-06 17:08:11 - BLS triggers  has been launched
+2020-01-06 17:21:54 - logout

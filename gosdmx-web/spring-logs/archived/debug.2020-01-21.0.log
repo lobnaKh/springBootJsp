@@ -1,0 +1,48 @@
+2020-01-21 16:10:06 - Starting BlsApplication on 2907B-HG2-1 with PID 15356 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-21 16:10:06 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-21 16:10:06 - The following profiles are active: dev
+2020-01-21 16:10:26 - Started BlsApplication in 20.654 seconds (JVM running for 21.428)
+2020-01-21 16:10:26 - BLS Application has been launched
+2020-01-21 16:10:26 - BLS triggers  has been launched
+2020-01-21 16:13:07 - Starting BlsApplication on 2907B-HG2-1 with PID 15356 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-21 16:13:07 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-21 16:13:07 - The following profiles are active: dev
+2020-01-21 16:13:20 - Started BlsApplication in 13.255 seconds (JVM running for 195.478)
+2020-01-21 16:13:20 - BLS Application has been launched
+2020-01-21 16:13:20 - BLS triggers  has been launched
+2020-01-21 16:15:07 - Survey Survey [id=3, label=pppp, description=ppppppp, automatic=false, periodicity=null, openingPeriodInWorkingDays=3] is created successfully
+2020-01-21 16:15:22 - Survey Survey [id=3, label=pppp, description=ppppppp, automatic=false, periodicity=null, openingPeriodInWorkingDays=3] is created successfully
+2020-01-21 16:18:02 - Starting BlsApplication on 2907B-HG2-1 with PID 15356 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-21 16:18:02 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-21 16:18:02 - The following profiles are active: dev
+2020-01-21 16:18:15 - Started BlsApplication in 13.308 seconds (JVM running for 490.433)
+2020-01-21 16:18:15 - BLS Application has been launched
+2020-01-21 16:18:15 - BLS triggers  has been launched
+2020-01-21 16:19:57 - Starting BlsApplication on 2907B-HG2-1 with PID 15356 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-21 16:19:57 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-21 16:19:57 - The following profiles are active: dev
+2020-01-21 16:20:10 - Started BlsApplication in 13.305 seconds (JVM running for 605.469)
+2020-01-21 16:20:10 - BLS Application has been launched
+2020-01-21 16:20:10 - BLS triggers  has been launched
+2020-01-21 16:21:28 - Survey Survey [id=3, label=yyyyy, description=yyyyyyyyyyyyyyyyy, automatic=false, periodicity=null, openingPeriodInWorkingDays=4] is created successfully
+2020-01-21 16:21:47 - Survey Survey [id=3, label=yyyyy, description=yyyyyyyyyyyyyyyyy, automatic=false, periodicity=null, openingPeriodInWorkingDays=4] is created successfully
+2020-01-21 16:26:20 - Starting BlsApplication on 2907B-HG2-1 with PID 15356 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-21 16:26:20 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-21 16:26:20 - The following profiles are active: dev
+2020-01-21 16:26:34 - Started BlsApplication in 13.254 seconds (JVM running for 988.693)
+2020-01-21 16:26:34 - BLS Application has been launched
+2020-01-21 16:26:34 - BLS triggers  has been launched
+2020-01-21 16:28:04 - Starting BlsApplication on 2907B-HG2-1 with PID 15356 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-21 16:28:04 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-21 16:28:04 - The following profiles are active: dev
+2020-01-21 16:28:17 - Started BlsApplication in 12.926 seconds (JVM running for 1091.77)
+2020-01-21 16:28:17 - BLS Application has been launched
+2020-01-21 16:28:17 - BLS triggers  has been launched
+2020-01-21 16:31:32 - Starting BlsApplication on 2907B-HG2-1 with PID 15356 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-21 16:31:32 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-21 16:31:32 - The following profiles are active: dev
+2020-01-21 16:31:46 - Started BlsApplication in 13.633 seconds (JVM running for 1301.009)
+2020-01-21 16:31:46 - BLS Application has been launched
+2020-01-21 16:31:46 - BLS triggers  has been launched
+2020-01-21 16:33:12 - Survey Survey [id=3, label=ttttttt, description=ttttttttttttttttt, automatic=false, periodicity=null, openingPeriodInWorkingDays=2] is created successfully
+2020-01-21 16:33:36 - Survey Survey [id=3, label=ttttttt, description=ttttttttttttttttt, automatic=false, periodicity=null, openingPeriodInWorkingDays=2] is created successfully

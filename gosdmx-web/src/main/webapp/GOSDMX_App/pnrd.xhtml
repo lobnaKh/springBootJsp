@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:h="http://xmlns.jcp.org/jsf/html" xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+	xmlns:p="http://primefaces.org/ui" xmlns:f="http://java.sun.com/jsf/core" xmlns:c="http://xmlns.jcp.org/jsp/jstl/core">
+
+<f:view encoding="UTF-8" contentType="text/html" locale="#{languageBean.currentLanguageCode}">
+
+	<h:head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
+		<meta name="viewport" content="width=device-width, user-scalable=no" />
+		<link rel="shortcut icon" href="#{resource['images/bls-icon.ico']}" />
+		<link href="#{resource['css/font-family/montserrat.css']}" rel='stylesheet' type='text/css' />
+		<title>#{msg.appName}</title>
+		<h:outputStylesheet name="css/layouts/header.css" />
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" />
+	</h:head>
+
+	<h:body>
+		<h:panelGroup id="page">
+
+			<h:form id="headerForm">
+				<nav class="navbar navbar-expand-sm bg-dark navbar-dark header"> <a class="navbar-brand" href="#">#{msg.appName}</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+
+				<div class="collapse navbar-collapse" id="collapsibleNavbar">
+					<ul class="navbar-nav ml-auto">
+						<li class="nav-item dropdown"><p:selectOneMenu id="language" value="#{languageBean.currentLanguageCode}"
+								valueChangeListener="#{languageBean.onCountryLocaleCodeChange}" styleClass="language-select-one-menu">
+								<f:selectItems value="#{languageBean.availableLanguages}" var="language" itemLabel="#{msg[language]}" />
+								<p:ajax update="page" />
+							</p:selectOneMenu></li>
+					</ul>
+				</div>
+				</nav>
+			</h:form>
+
+			<h:form>
+				<div>
+				
+				</div>
+				<div class="jumbotron text-center">
+					<h1>#{msg.PNRDPrototype}</h1>
+					
+				</div>
+
+				<div class="container">
+					<div class="text-center">
+						<h3>#{msg.EconomicAndFinancialData}</h3>
+						<p>#{msg.PnrdTableDescription}</p>
+					</div>
+
+					<div class="table-responsive">
+						<table class="table table-striped">
+						<c:forEach items="#{rubricBean.rubrics}" var="group" varStatus="loop_group">
+							<thead>
+								<tr>
+									<th style="width: 55%">#{languageBean.currentLanguageCode == 'fr'? group.key.label_fr : group.key.label_en}</th>
+									<th style="width: 15%" />
+									<th style="width: 15%" />
+									<th style="width: 15%" />
+								</tr>
+							</thead>
+
+							<tbody>
+								<c:forEach items="#{group.value}" var="rubric" varStatus="loop_rubric">
+									<tr>
+										<td>#{languageBean.currentLanguageCode == 'fr'? rubric.label_fr : rubric.label_en}</td>
+										<td><a href="#{rubric.linkToINSData}" target="_blank" role="button" class="btn btn-secondary btn-sm">#{msg.BrowseData}</a></td>
+										<td><a href="#{rubric.linkToSDMXFile}" target="_blank" role="button" class="btn btn-success btn-sm">#{msg.DownloadSDMX}</a></td>
+										<td><a href="#{rubric.linkToMetadataFile}" target="_blank" role="button" class="btn btn-info btn-sm">#{msg.DSBBMetadata}</a></td>
+									</tr>
+								</c:forEach>
+							</tbody>
+						</c:forEach>
+						</table>
+					</div>
+
+				</div>
+			</h:form>
+
+			<div class="footer row ">
+				<div class="small col-xs-12 col-md-10 col-lg-10">
+					© 2020 Copyright: <a href="https://www.bct.gov.tn/bct/siteprod/index.jsp">#{msg.CentralBankOfTunisia}</a>
+				</div>
+
+				<div class="small col-xs-12 col-md-2 col-lg-2">#{msg.Version}: #{configurationBean.buildProperties.version}</div>
+			</div>
+
+		</h:panelGroup>
+	</h:body>
+</f:view>
+</html>

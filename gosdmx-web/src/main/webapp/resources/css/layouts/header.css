@@ -1,0 +1,53 @@
+.header {
+	background: linear-gradient(-206deg, #00223E 5%, #5bc0de 100%);
+}
+
+/**language-selector**/
+.language-panel {
+	border-top: 1px solid #ffffff !important;
+	float: right;
+	position: relative;
+	text-align: right;
+	height: 58px !important;
+}
+
+.language-panel:hover {
+	background: #4498b6 !important;
+}
+
+.language-select-one-menu .ui-inputfield {
+	color: white !important;
+	background: transparent !important;
+}
+
+.language-select-one-menu .ui-inputfield:hover {
+	background: #4498b6 !important;
+}
+
+.language-select-one-menu {
+	border: none !important;
+	width: auto !important;
+	background: transparent !important;
+}
+
+.language-select-one-menu .ui-state-default {
+	background: transparent !important;
+}
+
+.language-select-one-menu .ui-selectonemenu-trigger {
+	border-left: 0 !important;
+}
+
+.language-select-one-menu .ui-selectonemenu-label {
+	text-transform: capitalize !important;
+}
+
+.language-select-one-menu .ui-state-default .ui-icon {
+	display: none;
+}
+
+.footer{
+	background: #f6f5f3;
+	padding: 1%;
+	margin: 0 !important;
+}

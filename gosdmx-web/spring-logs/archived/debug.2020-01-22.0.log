@@ -1,0 +1,24 @@
+2020-01-22 09:10:59 - Starting BlsApplication on 2907B-HG2-1 with PID 14008 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-22 09:10:59 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-22 09:10:59 - The following profiles are active: dev
+2020-01-22 09:11:34 - Started BlsApplication in 35.808 seconds (JVM running for 36.487)
+2020-01-22 09:11:34 - BLS Application has been launched
+2020-01-22 09:11:34 - BLS triggers  has been launched
+2020-01-22 15:49:31 - Starting BlsApplication on 2907B-HG2-1 with PID 7408 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-22 15:49:31 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-22 15:49:31 - The following profiles are active: dev
+2020-01-22 15:49:51 - Started BlsApplication in 20.439 seconds (JVM running for 21.21)
+2020-01-22 15:49:51 - BLS Application has been launched
+2020-01-22 15:49:51 - BLS triggers  has been launched
+2020-01-22 15:52:02 - Starting BlsApplication on 2907B-HG2-1 with PID 13448 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-22 15:52:02 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-22 15:52:02 - The following profiles are active: dev
+2020-01-22 15:52:22 - Started BlsApplication in 19.653 seconds (JVM running for 20.408)
+2020-01-22 15:52:22 - BLS Application has been launched
+2020-01-22 15:52:22 - BLS triggers  has been launched
+2020-01-22 16:34:54 - Starting BlsApplication on 2907B-HG2-1 with PID 8108 (C:\workspace\BLS\trunk\bls-web\target\classes started by 2907B in C:\workspace\BLS\trunk\bls-web)
+2020-01-22 16:34:54 - Running with Spring Boot v1.5.20.RELEASE, Spring v4.3.23.RELEASE
+2020-01-22 16:34:54 - The following profiles are active: dev
+2020-01-22 16:35:15 - Started BlsApplication in 21.171 seconds (JVM running for 22.255)
+2020-01-22 16:35:15 - BLS Application has been launched
+2020-01-22 16:35:15 - BLS triggers  has been launched
